@@ -1,4 +1,4 @@
-# ROS-and_Gazebo
+# ROS-and-Gazebo
 The repository for studying ros and gazebo.
 ## Dependency
 - Ubuntu 16.04 LTS
