@@ -1,5 +1,5 @@
 # ROS-and_Gazebo
-This is study for ros and gazebo
+The repository for studying ros and gazebo.
 ## Dependency
 - Ubuntu 16.04 LTS
 - ros-kinetic
