@@ -5,5 +5,5 @@ This is study for ros and gazebo
 - ros-kinetic
 - gazebo 7 or higher
 - ros-kinetic-turtlebot-gazebo
-## Relate paper
+## Related paper
 http://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/bogoslavskyi16iros.pdf
