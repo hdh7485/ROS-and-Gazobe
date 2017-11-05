@@ -1,2 +1,2 @@
-wanderbot
+laser_filters:obstacle_detector:wanderbot
 -DCATKIN_DEVEL_PREFIX=/home/hdh7485/wanderbot_ws/devel -DCMAKE_INSTALL_PREFIX=/home/hdh7485/wanderbot_ws/install -G Unix Makefiles

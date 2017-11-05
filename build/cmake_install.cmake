@@ -117,6 +117,8 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/home/hdh7485/wanderbot_ws/build/gtest/cmake_install.cmake")
+  include("/home/hdh7485/wanderbot_ws/build/laser_filters/cmake_install.cmake")
+  include("/home/hdh7485/wanderbot_ws/build/obstacle_detector/cmake_install.cmake")
   include("/home/hdh7485/wanderbot_ws/build/wanderbot/cmake_install.cmake")
 
 endif()
