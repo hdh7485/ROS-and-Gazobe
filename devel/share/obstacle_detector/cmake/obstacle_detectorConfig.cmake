@@ -67,14 +67,14 @@ set(obstacle_detector_CONFIG_INCLUDED TRUE)
 
 # set variables for source/devel/install prefixes
 if("TRUE" STREQUAL "TRUE")
-  set(obstacle_detector_SOURCE_PREFIX /home/hdh7485/wanderbot_ws/src/obstacle_detector)
-  set(obstacle_detector_DEVEL_PREFIX /home/hdh7485/wanderbot_ws/devel)
+  set(obstacle_detector_SOURCE_PREFIX /home/dongheehan/ROS-and-Gazobe/src/obstacle_detector)
+  set(obstacle_detector_DEVEL_PREFIX /home/dongheehan/ROS-and-Gazobe/devel)
   set(obstacle_detector_INSTALL_PREFIX "")
   set(obstacle_detector_PREFIX ${obstacle_detector_DEVEL_PREFIX})
 else()
   set(obstacle_detector_SOURCE_PREFIX "")
   set(obstacle_detector_DEVEL_PREFIX "")
-  set(obstacle_detector_INSTALL_PREFIX /home/hdh7485/wanderbot_ws/install)
+  set(obstacle_detector_INSTALL_PREFIX /home/dongheehan/ROS-and-Gazobe/install)
   set(obstacle_detector_PREFIX ${obstacle_detector_INSTALL_PREFIX})
 endif()
 
@@ -91,9 +91,9 @@ endif()
 # flag project as catkin-based to distinguish if a find_package()-ed project is a catkin project
 set(obstacle_detector_FOUND_CATKIN_PROJECT TRUE)
 
-if(NOT "/home/hdh7485/wanderbot_ws/devel/include;/home/hdh7485/wanderbot_ws/src/obstacle_detector/include " STREQUAL " ")
+if(NOT "/home/dongheehan/ROS-and-Gazobe/devel/include;/home/dongheehan/ROS-and-Gazobe/src/obstacle_detector/include " STREQUAL " ")
   set(obstacle_detector_INCLUDE_DIRS "")
-  set(_include_dirs "/home/hdh7485/wanderbot_ws/devel/include;/home/hdh7485/wanderbot_ws/src/obstacle_detector/include")
+  set(_include_dirs "/home/dongheehan/ROS-and-Gazobe/devel/include;/home/dongheehan/ROS-and-Gazobe/src/obstacle_detector/include")
   foreach(idir ${_include_dirs})
     if(IS_ABSOLUTE ${idir} AND IS_DIRECTORY ${idir})
       set(include ${idir})
@@ -103,7 +103,7 @@ if(NOT "/home/hdh7485/wanderbot_ws/devel/include;/home/hdh7485/wanderbot_ws/src/
         message(FATAL_ERROR "Project 'obstacle_detector' specifies '${idir}' as an include dir, which is not found.  It does not exist in '${include}'.  Ask the maintainer 'Mateusz Przybyla <mateusz.przybyla@put.poznan.pl>' to fix it.")
       endif()
     else()
-      message(FATAL_ERROR "Project 'obstacle_detector' specifies '${idir}' as an include dir, which is not found.  It does neither exist as an absolute directory nor in '/home/hdh7485/wanderbot_ws/src/obstacle_detector/${idir}'.  Ask the maintainer 'Mateusz Przybyla <mateusz.przybyla@put.poznan.pl>' to fix it.")
+      message(FATAL_ERROR "Project 'obstacle_detector' specifies '${idir}' as an include dir, which is not found.  It does neither exist as an absolute directory nor in '/home/dongheehan/ROS-and-Gazobe/src/obstacle_detector/${idir}'.  Ask the maintainer 'Mateusz Przybyla <mateusz.przybyla@put.poznan.pl>' to fix it.")
     endif()
     _list_append_unique(obstacle_detector_INCLUDE_DIRS ${include})
   endforeach()
@@ -122,7 +122,7 @@ foreach(library ${libraries})
     set(lib_path "")
     set(lib "${library}-NOTFOUND")
     # since the path where the library is found is returned we have to iterate over the paths manually
-    foreach(path /home/hdh7485/wanderbot_ws/devel/lib;/home/hdh7485/catkin_ws/devel/lib;/opt/ros/kinetic/lib)
+    foreach(path /home/dongheehan/ROS-and-Gazobe/devel/lib;/opt/ros/kinetic/lib)
       find_library(lib ${library}
         PATHS ${path}
         NO_DEFAULT_PATH NO_CMAKE_FIND_ROOT_PATH)

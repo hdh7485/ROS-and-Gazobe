@@ -1,6 +1,6 @@
 # CMake generated Testfile for 
-# Source directory: /home/hdh7485/wanderbot_ws/src
-# Build directory: /home/hdh7485/wanderbot_ws/build
+# Source directory: /home/dongheehan/ROS-and-Gazobe/src
+# Build directory: /home/dongheehan/ROS-and-Gazobe/build
 # 
 # This file includes the relevant testing commands required for 
 # testing this directory and lists subdirectories to be tested as well.

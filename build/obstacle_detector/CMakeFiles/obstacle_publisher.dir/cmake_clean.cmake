@@ -1,8 +1,10 @@
 file(REMOVE_RECURSE
   "obstacle_detector_gui_automoc.cpp"
   "CMakeFiles/obstacle_publisher.dir/src/obstacle_publisher.cpp.o"
-  "/home/hdh7485/wanderbot_ws/devel/lib/libobstacle_publisher.pdb"
-  "/home/hdh7485/wanderbot_ws/devel/lib/libobstacle_publisher.so"
+  "/home/dongheehan/ROS-and-Gazobe/devel/lib/libobstacle_publisher.pdb"
+  "/home/dongheehan/ROS-and-Gazobe/devel/lib/libobstacle_publisher.so"
+  "/home/dongheehan/ROS-and-Gazobe/devel/lib/libobstacle_publisher.pdb"
+  "CMakeFiles/CMakeRelink.dir/libobstacle_publisher.so"
 )
 
 # Per-language clean rules from dependency scanning.

@@ -6,5 +6,5 @@ CXX_FLAGS = -std=c++11 -fpermissive  -Wfatal-errors  -fPIC
 
 CXX_DEFINES = -DQT_NO_KEYWORDS -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\"obstacle_detector\" -Dobstacle_publisher_EXPORTS
 
-CXX_INCLUDES = -I/home/hdh7485/wanderbot_ws/devel/include -I/home/hdh7485/wanderbot_ws/src/obstacle_detector/include -I/opt/ros/kinetic/include -I/opt/ros/kinetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/usr/include/OGRE/Overlay -I/usr/include/OGRE 
+CXX_INCLUDES = -I/home/dongheehan/ROS-and-Gazobe/devel/include -I/home/dongheehan/ROS-and-Gazobe/src/obstacle_detector/include -I/opt/ros/kinetic/include -I/opt/ros/kinetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/usr/include/OGRE/Overlay -I/usr/include/OGRE 
 

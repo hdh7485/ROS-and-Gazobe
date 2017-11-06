@@ -7,10 +7,10 @@
 # new environment variables
 
 # modified environment variables
-export CMAKE_PREFIX_PATH="/home/hdh7485/wanderbot_ws/devel:$CMAKE_PREFIX_PATH"
-export LD_LIBRARY_PATH="/home/hdh7485/wanderbot_ws/devel/lib:$LD_LIBRARY_PATH"
-export PATH="/opt/ros/kinetic/bin:/home/hdh7485/.Pokemon-Terminal:/home/hdh7485/bin:/home/hdh7485/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin"
-export PKG_CONFIG_PATH="/home/hdh7485/wanderbot_ws/devel/lib/pkgconfig:$PKG_CONFIG_PATH"
-export PWD="/home/hdh7485/wanderbot_ws/build"
-export ROSLISP_PACKAGE_DIRECTORIES="/home/hdh7485/wanderbot_ws/devel/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
-export ROS_PACKAGE_PATH="/home/hdh7485/wanderbot_ws/src:$ROS_PACKAGE_PATH"
+export CMAKE_PREFIX_PATH="/home/dongheehan/ROS-and-Gazobe/devel:/opt/ros/kinetic"
+export LD_LIBRARY_PATH="/home/dongheehan/ROS-and-Gazobe/devel/lib:/opt/ros/kinetic/lib"
+export PKG_CONFIG_PATH="/home/dongheehan/ROS-and-Gazobe/devel/lib/pkgconfig:/opt/ros/kinetic/lib/pkgconfig"
+export PWD="/home/dongheehan/ROS-and-Gazobe/build"
+export PYTHONPATH="/home/dongheehan/ROS-and-Gazobe/devel/lib/python2.7/dist-packages:/opt/ros/kinetic/lib/python2.7/dist-packages"
+export ROSLISP_PACKAGE_DIRECTORIES="/home/dongheehan/ROS-and-Gazobe/devel/share/common-lisp"
+export ROS_PACKAGE_PATH="/home/hdh7485/wanderbot_ws/src:/home/dongheehan/ROS-and-Gazobe/src:/opt/ros/kinetic/share"

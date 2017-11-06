@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/hdh7485/wanderbot_ws/src/obstacle_detector/include/obstacle_detector/scans_merger.h
+/home/dongheehan/ROS-and-Gazobe/src/obstacle_detector/include/obstacle_detector/scans_merger.h
 ros/ros.h
 -
 std_srvs/Empty.h
@@ -22,9 +22,9 @@ tf/transform_listener.h
 laser_geometry/laser_geometry.h
 -
 
-/home/hdh7485/wanderbot_ws/src/obstacle_detector/src/nodes/scans_merger_node.cpp
+/home/dongheehan/ROS-and-Gazobe/src/obstacle_detector/src/nodes/scans_merger_node.cpp
 obstacle_detector/scans_merger.h
-/home/hdh7485/wanderbot_ws/src/obstacle_detector/src/nodes/obstacle_detector/scans_merger.h
+/home/dongheehan/ROS-and-Gazobe/src/obstacle_detector/src/nodes/obstacle_detector/scans_merger.h
 
 /opt/ros/kinetic/include/geometry_msgs/Point.h
 string

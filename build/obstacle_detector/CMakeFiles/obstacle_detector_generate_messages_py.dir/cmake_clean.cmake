@@ -1,10 +1,10 @@
 file(REMOVE_RECURSE
   "obstacle_detector_gui_automoc.cpp"
   "CMakeFiles/obstacle_detector_generate_messages_py"
-  "/home/hdh7485/wanderbot_ws/devel/lib/python2.7/dist-packages/obstacle_detector/msg/_CircleObstacle.py"
-  "/home/hdh7485/wanderbot_ws/devel/lib/python2.7/dist-packages/obstacle_detector/msg/_Obstacles.py"
-  "/home/hdh7485/wanderbot_ws/devel/lib/python2.7/dist-packages/obstacle_detector/msg/_SegmentObstacle.py"
-  "/home/hdh7485/wanderbot_ws/devel/lib/python2.7/dist-packages/obstacle_detector/msg/__init__.py"
+  "/home/dongheehan/ROS-and-Gazobe/devel/lib/python2.7/dist-packages/obstacle_detector/msg/_Obstacles.py"
+  "/home/dongheehan/ROS-and-Gazobe/devel/lib/python2.7/dist-packages/obstacle_detector/msg/_CircleObstacle.py"
+  "/home/dongheehan/ROS-and-Gazobe/devel/lib/python2.7/dist-packages/obstacle_detector/msg/_SegmentObstacle.py"
+  "/home/dongheehan/ROS-and-Gazobe/devel/lib/python2.7/dist-packages/obstacle_detector/msg/__init__.py"
 )
 
 # Per-language clean rules from dependency scanning.

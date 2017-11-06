@@ -1,8 +1,8 @@
-prefix=/home/hdh7485/wanderbot_ws/install
+prefix=/home/dongheehan/ROS-and-Gazobe/install
 
 Name: wanderbot
 Description: Description of wanderbot
 Version: 0.0.0
 Cflags: 
-Libs: -L/home/hdh7485/wanderbot_ws/install/lib 
+Libs: -L/home/dongheehan/ROS-and-Gazobe/install/lib 
 Requires: 
