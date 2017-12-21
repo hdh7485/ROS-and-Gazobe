@@ -10,4 +10,7 @@ set(obstacle_detector_EXEC_DEPENDS "message_runtime" "tf" "rviz" "roscpp" "rosla
 set(obstacle_detector_RUN_DEPENDS "message_runtime" "tf" "rviz" "roscpp" "roslaunch" "nodelet" "std_msgs" "std_srvs" "sensor_msgs" "geometry_msgs" "laser_geometry")
 set(obstacle_detector_TEST_DEPENDS )
 set(obstacle_detector_DOC_DEPENDS )
+set(obstacle_detector_URL_WEBSITE "")
+set(obstacle_detector_URL_BUGTRACKER "")
+set(obstacle_detector_URL_REPOSITORY "")
 set(obstacle_detector_DEPRECATED "")

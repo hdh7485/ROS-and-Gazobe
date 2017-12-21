@@ -78,6 +78,8 @@ obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/obstacle_detector_gui_aut
 obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/obstacle_detector_gui_automoc.cpp.o: /opt/ros/kinetic/include/ros/single_subscriber_publisher.h
 obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/obstacle_detector_gui_automoc.cpp.o: /opt/ros/kinetic/include/ros/spinner.h
 obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/obstacle_detector_gui_automoc.cpp.o: /opt/ros/kinetic/include/ros/static_assert.h
+obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/obstacle_detector_gui_automoc.cpp.o: /opt/ros/kinetic/include/ros/steady_timer.h
+obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/obstacle_detector_gui_automoc.cpp.o: /opt/ros/kinetic/include/ros/steady_timer_options.h
 obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/obstacle_detector_gui_automoc.cpp.o: /opt/ros/kinetic/include/ros/subscribe_options.h
 obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/obstacle_detector_gui_automoc.cpp.o: /opt/ros/kinetic/include/ros/subscriber.h
 obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/obstacle_detector_gui_automoc.cpp.o: /opt/ros/kinetic/include/ros/subscription_callback_helper.h
@@ -510,6 +512,7 @@ obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/displays/obstacles_di
 obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/displays/obstacles_display.cpp.o: /opt/ros/kinetic/include/class_loader/class_loader_core.h
 obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/displays/obstacles_display.cpp.o: /opt/ros/kinetic/include/class_loader/class_loader_exceptions.h
 obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/displays/obstacles_display.cpp.o: /opt/ros/kinetic/include/class_loader/class_loader_register_macro.h
+obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/displays/obstacles_display.cpp.o: /opt/ros/kinetic/include/class_loader/console_bridge_compatibility.h
 obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/displays/obstacles_display.cpp.o: /opt/ros/kinetic/include/class_loader/meta_object.h
 obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/displays/obstacles_display.cpp.o: /opt/ros/kinetic/include/geometry_msgs/Point.h
 obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/displays/obstacles_display.cpp.o: /opt/ros/kinetic/include/geometry_msgs/Point32.h
@@ -529,6 +532,7 @@ obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/displays/obstacles_di
 obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/displays/obstacles_display.cpp.o: /opt/ros/kinetic/include/message_filters/signal1.h
 obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/displays/obstacles_display.cpp.o: /opt/ros/kinetic/include/message_filters/simple_filter.h
 obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/displays/obstacles_display.cpp.o: /opt/ros/kinetic/include/message_filters/subscriber.h
+obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/displays/obstacles_display.cpp.o: /opt/ros/kinetic/include/pluginlib/./class_list_macros.hpp
 obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/displays/obstacles_display.cpp.o: /opt/ros/kinetic/include/pluginlib/class_list_macros.h
 obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/displays/obstacles_display.cpp.o: /opt/ros/kinetic/include/ros/advertise_options.h
 obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/displays/obstacles_display.cpp.o: /opt/ros/kinetic/include/ros/advertise_service_options.h
@@ -573,6 +577,8 @@ obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/displays/obstacles_di
 obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/displays/obstacles_display.cpp.o: /opt/ros/kinetic/include/ros/single_subscriber_publisher.h
 obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/displays/obstacles_display.cpp.o: /opt/ros/kinetic/include/ros/spinner.h
 obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/displays/obstacles_display.cpp.o: /opt/ros/kinetic/include/ros/static_assert.h
+obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/displays/obstacles_display.cpp.o: /opt/ros/kinetic/include/ros/steady_timer.h
+obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/displays/obstacles_display.cpp.o: /opt/ros/kinetic/include/ros/steady_timer_options.h
 obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/displays/obstacles_display.cpp.o: /opt/ros/kinetic/include/ros/subscribe_options.h
 obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/displays/obstacles_display.cpp.o: /opt/ros/kinetic/include/ros/subscriber.h
 obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/displays/obstacles_display.cpp.o: /opt/ros/kinetic/include/ros/subscription_callback_helper.h
@@ -971,7 +977,9 @@ obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/panels/obstacle_extra
 obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/panels/obstacle_extractor_panel.cpp.o: /opt/ros/kinetic/include/class_loader/class_loader_core.h
 obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/panels/obstacle_extractor_panel.cpp.o: /opt/ros/kinetic/include/class_loader/class_loader_exceptions.h
 obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/panels/obstacle_extractor_panel.cpp.o: /opt/ros/kinetic/include/class_loader/class_loader_register_macro.h
+obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/panels/obstacle_extractor_panel.cpp.o: /opt/ros/kinetic/include/class_loader/console_bridge_compatibility.h
 obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/panels/obstacle_extractor_panel.cpp.o: /opt/ros/kinetic/include/class_loader/meta_object.h
+obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/panels/obstacle_extractor_panel.cpp.o: /opt/ros/kinetic/include/pluginlib/./class_list_macros.hpp
 obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/panels/obstacle_extractor_panel.cpp.o: /opt/ros/kinetic/include/pluginlib/class_list_macros.h
 obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/panels/obstacle_extractor_panel.cpp.o: /opt/ros/kinetic/include/ros/advertise_options.h
 obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/panels/obstacle_extractor_panel.cpp.o: /opt/ros/kinetic/include/ros/advertise_service_options.h
@@ -1014,6 +1022,8 @@ obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/panels/obstacle_extra
 obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/panels/obstacle_extractor_panel.cpp.o: /opt/ros/kinetic/include/ros/single_subscriber_publisher.h
 obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/panels/obstacle_extractor_panel.cpp.o: /opt/ros/kinetic/include/ros/spinner.h
 obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/panels/obstacle_extractor_panel.cpp.o: /opt/ros/kinetic/include/ros/static_assert.h
+obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/panels/obstacle_extractor_panel.cpp.o: /opt/ros/kinetic/include/ros/steady_timer.h
+obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/panels/obstacle_extractor_panel.cpp.o: /opt/ros/kinetic/include/ros/steady_timer_options.h
 obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/panels/obstacle_extractor_panel.cpp.o: /opt/ros/kinetic/include/ros/subscribe_options.h
 obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/panels/obstacle_extractor_panel.cpp.o: /opt/ros/kinetic/include/ros/subscriber.h
 obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/panels/obstacle_extractor_panel.cpp.o: /opt/ros/kinetic/include/ros/subscription_callback_helper.h
@@ -1170,7 +1180,9 @@ obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/panels/obstacle_publi
 obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/panels/obstacle_publisher_panel.cpp.o: /opt/ros/kinetic/include/class_loader/class_loader_core.h
 obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/panels/obstacle_publisher_panel.cpp.o: /opt/ros/kinetic/include/class_loader/class_loader_exceptions.h
 obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/panels/obstacle_publisher_panel.cpp.o: /opt/ros/kinetic/include/class_loader/class_loader_register_macro.h
+obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/panels/obstacle_publisher_panel.cpp.o: /opt/ros/kinetic/include/class_loader/console_bridge_compatibility.h
 obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/panels/obstacle_publisher_panel.cpp.o: /opt/ros/kinetic/include/class_loader/meta_object.h
+obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/panels/obstacle_publisher_panel.cpp.o: /opt/ros/kinetic/include/pluginlib/./class_list_macros.hpp
 obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/panels/obstacle_publisher_panel.cpp.o: /opt/ros/kinetic/include/pluginlib/class_list_macros.h
 obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/panels/obstacle_publisher_panel.cpp.o: /opt/ros/kinetic/include/ros/advertise_options.h
 obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/panels/obstacle_publisher_panel.cpp.o: /opt/ros/kinetic/include/ros/advertise_service_options.h
@@ -1213,6 +1225,8 @@ obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/panels/obstacle_publi
 obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/panels/obstacle_publisher_panel.cpp.o: /opt/ros/kinetic/include/ros/single_subscriber_publisher.h
 obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/panels/obstacle_publisher_panel.cpp.o: /opt/ros/kinetic/include/ros/spinner.h
 obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/panels/obstacle_publisher_panel.cpp.o: /opt/ros/kinetic/include/ros/static_assert.h
+obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/panels/obstacle_publisher_panel.cpp.o: /opt/ros/kinetic/include/ros/steady_timer.h
+obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/panels/obstacle_publisher_panel.cpp.o: /opt/ros/kinetic/include/ros/steady_timer_options.h
 obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/panels/obstacle_publisher_panel.cpp.o: /opt/ros/kinetic/include/ros/subscribe_options.h
 obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/panels/obstacle_publisher_panel.cpp.o: /opt/ros/kinetic/include/ros/subscriber.h
 obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/panels/obstacle_publisher_panel.cpp.o: /opt/ros/kinetic/include/ros/subscription_callback_helper.h
@@ -1386,7 +1400,9 @@ obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/panels/obstacle_track
 obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/panels/obstacle_tracker_panel.cpp.o: /opt/ros/kinetic/include/class_loader/class_loader_core.h
 obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/panels/obstacle_tracker_panel.cpp.o: /opt/ros/kinetic/include/class_loader/class_loader_exceptions.h
 obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/panels/obstacle_tracker_panel.cpp.o: /opt/ros/kinetic/include/class_loader/class_loader_register_macro.h
+obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/panels/obstacle_tracker_panel.cpp.o: /opt/ros/kinetic/include/class_loader/console_bridge_compatibility.h
 obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/panels/obstacle_tracker_panel.cpp.o: /opt/ros/kinetic/include/class_loader/meta_object.h
+obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/panels/obstacle_tracker_panel.cpp.o: /opt/ros/kinetic/include/pluginlib/./class_list_macros.hpp
 obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/panels/obstacle_tracker_panel.cpp.o: /opt/ros/kinetic/include/pluginlib/class_list_macros.h
 obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/panels/obstacle_tracker_panel.cpp.o: /opt/ros/kinetic/include/ros/advertise_options.h
 obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/panels/obstacle_tracker_panel.cpp.o: /opt/ros/kinetic/include/ros/advertise_service_options.h
@@ -1429,6 +1445,8 @@ obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/panels/obstacle_track
 obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/panels/obstacle_tracker_panel.cpp.o: /opt/ros/kinetic/include/ros/single_subscriber_publisher.h
 obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/panels/obstacle_tracker_panel.cpp.o: /opt/ros/kinetic/include/ros/spinner.h
 obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/panels/obstacle_tracker_panel.cpp.o: /opt/ros/kinetic/include/ros/static_assert.h
+obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/panels/obstacle_tracker_panel.cpp.o: /opt/ros/kinetic/include/ros/steady_timer.h
+obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/panels/obstacle_tracker_panel.cpp.o: /opt/ros/kinetic/include/ros/steady_timer_options.h
 obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/panels/obstacle_tracker_panel.cpp.o: /opt/ros/kinetic/include/ros/subscribe_options.h
 obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/panels/obstacle_tracker_panel.cpp.o: /opt/ros/kinetic/include/ros/subscriber.h
 obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/panels/obstacle_tracker_panel.cpp.o: /opt/ros/kinetic/include/ros/subscription_callback_helper.h
@@ -1585,7 +1603,9 @@ obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/panels/scans_merger_p
 obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/panels/scans_merger_panel.cpp.o: /opt/ros/kinetic/include/class_loader/class_loader_core.h
 obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/panels/scans_merger_panel.cpp.o: /opt/ros/kinetic/include/class_loader/class_loader_exceptions.h
 obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/panels/scans_merger_panel.cpp.o: /opt/ros/kinetic/include/class_loader/class_loader_register_macro.h
+obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/panels/scans_merger_panel.cpp.o: /opt/ros/kinetic/include/class_loader/console_bridge_compatibility.h
 obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/panels/scans_merger_panel.cpp.o: /opt/ros/kinetic/include/class_loader/meta_object.h
+obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/panels/scans_merger_panel.cpp.o: /opt/ros/kinetic/include/pluginlib/./class_list_macros.hpp
 obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/panels/scans_merger_panel.cpp.o: /opt/ros/kinetic/include/pluginlib/class_list_macros.h
 obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/panels/scans_merger_panel.cpp.o: /opt/ros/kinetic/include/ros/advertise_options.h
 obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/panels/scans_merger_panel.cpp.o: /opt/ros/kinetic/include/ros/advertise_service_options.h
@@ -1628,6 +1648,8 @@ obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/panels/scans_merger_p
 obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/panels/scans_merger_panel.cpp.o: /opt/ros/kinetic/include/ros/single_subscriber_publisher.h
 obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/panels/scans_merger_panel.cpp.o: /opt/ros/kinetic/include/ros/spinner.h
 obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/panels/scans_merger_panel.cpp.o: /opt/ros/kinetic/include/ros/static_assert.h
+obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/panels/scans_merger_panel.cpp.o: /opt/ros/kinetic/include/ros/steady_timer.h
+obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/panels/scans_merger_panel.cpp.o: /opt/ros/kinetic/include/ros/steady_timer_options.h
 obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/panels/scans_merger_panel.cpp.o: /opt/ros/kinetic/include/ros/subscribe_options.h
 obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/panels/scans_merger_panel.cpp.o: /opt/ros/kinetic/include/ros/subscriber.h
 obstacle_detector/CMakeFiles/obstacle_detector_gui.dir/src/panels/scans_merger_panel.cpp.o: /opt/ros/kinetic/include/ros/subscription_callback_helper.h

@@ -113,6 +113,7 @@ test_scan_filter_chain_EXTERNAL_OBJECTS =
 /home/dongheehan/ROS-and-Gazobe/devel/lib/laser_filters/test_scan_filter_chain: /opt/ros/kinetic/lib/libroscpp_serialization.so
 /home/dongheehan/ROS-and-Gazobe/devel/lib/laser_filters/test_scan_filter_chain: /opt/ros/kinetic/lib/libxmlrpcpp.so
 /home/dongheehan/ROS-and-Gazobe/devel/lib/laser_filters/test_scan_filter_chain: /opt/ros/kinetic/lib/liblaser_geometry.so
+/home/dongheehan/ROS-and-Gazobe/devel/lib/laser_filters/test_scan_filter_chain: /usr/lib/x86_64-linux-gnu/libtinyxml2.so
 /home/dongheehan/ROS-and-Gazobe/devel/lib/laser_filters/test_scan_filter_chain: /opt/ros/kinetic/lib/libclass_loader.so
 /home/dongheehan/ROS-and-Gazobe/devel/lib/laser_filters/test_scan_filter_chain: /usr/lib/libPocoFoundation.so
 /home/dongheehan/ROS-and-Gazobe/devel/lib/laser_filters/test_scan_filter_chain: /usr/lib/x86_64-linux-gnu/libdl.so
@@ -134,6 +135,7 @@ test_scan_filter_chain_EXTERNAL_OBJECTS =
 /home/dongheehan/ROS-and-Gazobe/devel/lib/laser_filters/test_scan_filter_chain: /opt/ros/kinetic/lib/libroscpp_serialization.so
 /home/dongheehan/ROS-and-Gazobe/devel/lib/laser_filters/test_scan_filter_chain: /opt/ros/kinetic/lib/libxmlrpcpp.so
 /home/dongheehan/ROS-and-Gazobe/devel/lib/laser_filters/test_scan_filter_chain: /opt/ros/kinetic/lib/liblaser_geometry.so
+/home/dongheehan/ROS-and-Gazobe/devel/lib/laser_filters/test_scan_filter_chain: /usr/lib/x86_64-linux-gnu/libtinyxml2.so
 /home/dongheehan/ROS-and-Gazobe/devel/lib/laser_filters/test_scan_filter_chain: /opt/ros/kinetic/lib/libclass_loader.so
 /home/dongheehan/ROS-and-Gazobe/devel/lib/laser_filters/test_scan_filter_chain: /usr/lib/libPocoFoundation.so
 /home/dongheehan/ROS-and-Gazobe/devel/lib/laser_filters/test_scan_filter_chain: /usr/lib/x86_64-linux-gnu/libdl.so

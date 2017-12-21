@@ -14,6 +14,7 @@ obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/obstacl
 obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/obstacle_extractor_nodelet.cpp.o: /opt/ros/kinetic/include/class_loader/class_loader_core.h
 obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/obstacle_extractor_nodelet.cpp.o: /opt/ros/kinetic/include/class_loader/class_loader_exceptions.h
 obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/obstacle_extractor_nodelet.cpp.o: /opt/ros/kinetic/include/class_loader/class_loader_register_macro.h
+obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/obstacle_extractor_nodelet.cpp.o: /opt/ros/kinetic/include/class_loader/console_bridge_compatibility.h
 obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/obstacle_extractor_nodelet.cpp.o: /opt/ros/kinetic/include/class_loader/meta_object.h
 obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/obstacle_extractor_nodelet.cpp.o: /opt/ros/kinetic/include/geometry_msgs/Point.h
 obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/obstacle_extractor_nodelet.cpp.o: /opt/ros/kinetic/include/geometry_msgs/Point32.h
@@ -30,6 +31,7 @@ obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/obstacl
 obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/obstacle_extractor_nodelet.cpp.o: /opt/ros/kinetic/include/geometry_msgs/Vector3Stamped.h
 obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/obstacle_extractor_nodelet.cpp.o: /opt/ros/kinetic/include/nodelet/exception.h
 obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/obstacle_extractor_nodelet.cpp.o: /opt/ros/kinetic/include/nodelet/nodelet.h
+obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/obstacle_extractor_nodelet.cpp.o: /opt/ros/kinetic/include/pluginlib/./class_list_macros.hpp
 obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/obstacle_extractor_nodelet.cpp.o: /opt/ros/kinetic/include/pluginlib/class_list_macros.h
 obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/obstacle_extractor_nodelet.cpp.o: /opt/ros/kinetic/include/ros/advertise_options.h
 obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/obstacle_extractor_nodelet.cpp.o: /opt/ros/kinetic/include/ros/advertise_service_options.h
@@ -74,6 +76,8 @@ obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/obstacl
 obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/obstacle_extractor_nodelet.cpp.o: /opt/ros/kinetic/include/ros/single_subscriber_publisher.h
 obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/obstacle_extractor_nodelet.cpp.o: /opt/ros/kinetic/include/ros/spinner.h
 obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/obstacle_extractor_nodelet.cpp.o: /opt/ros/kinetic/include/ros/static_assert.h
+obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/obstacle_extractor_nodelet.cpp.o: /opt/ros/kinetic/include/ros/steady_timer.h
+obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/obstacle_extractor_nodelet.cpp.o: /opt/ros/kinetic/include/ros/steady_timer_options.h
 obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/obstacle_extractor_nodelet.cpp.o: /opt/ros/kinetic/include/ros/subscribe_options.h
 obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/obstacle_extractor_nodelet.cpp.o: /opt/ros/kinetic/include/ros/subscriber.h
 obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/obstacle_extractor_nodelet.cpp.o: /opt/ros/kinetic/include/ros/subscription_callback_helper.h
@@ -138,11 +142,13 @@ obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/obstacl
 obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/obstacle_publisher_nodelet.cpp.o: /opt/ros/kinetic/include/class_loader/class_loader_core.h
 obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/obstacle_publisher_nodelet.cpp.o: /opt/ros/kinetic/include/class_loader/class_loader_exceptions.h
 obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/obstacle_publisher_nodelet.cpp.o: /opt/ros/kinetic/include/class_loader/class_loader_register_macro.h
+obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/obstacle_publisher_nodelet.cpp.o: /opt/ros/kinetic/include/class_loader/console_bridge_compatibility.h
 obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/obstacle_publisher_nodelet.cpp.o: /opt/ros/kinetic/include/class_loader/meta_object.h
 obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/obstacle_publisher_nodelet.cpp.o: /opt/ros/kinetic/include/geometry_msgs/Point.h
 obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/obstacle_publisher_nodelet.cpp.o: /opt/ros/kinetic/include/geometry_msgs/Vector3.h
 obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/obstacle_publisher_nodelet.cpp.o: /opt/ros/kinetic/include/nodelet/exception.h
 obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/obstacle_publisher_nodelet.cpp.o: /opt/ros/kinetic/include/nodelet/nodelet.h
+obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/obstacle_publisher_nodelet.cpp.o: /opt/ros/kinetic/include/pluginlib/./class_list_macros.hpp
 obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/obstacle_publisher_nodelet.cpp.o: /opt/ros/kinetic/include/pluginlib/class_list_macros.h
 obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/obstacle_publisher_nodelet.cpp.o: /opt/ros/kinetic/include/ros/advertise_options.h
 obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/obstacle_publisher_nodelet.cpp.o: /opt/ros/kinetic/include/ros/advertise_service_options.h
@@ -185,6 +191,8 @@ obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/obstacl
 obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/obstacle_publisher_nodelet.cpp.o: /opt/ros/kinetic/include/ros/single_subscriber_publisher.h
 obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/obstacle_publisher_nodelet.cpp.o: /opt/ros/kinetic/include/ros/spinner.h
 obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/obstacle_publisher_nodelet.cpp.o: /opt/ros/kinetic/include/ros/static_assert.h
+obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/obstacle_publisher_nodelet.cpp.o: /opt/ros/kinetic/include/ros/steady_timer.h
+obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/obstacle_publisher_nodelet.cpp.o: /opt/ros/kinetic/include/ros/steady_timer_options.h
 obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/obstacle_publisher_nodelet.cpp.o: /opt/ros/kinetic/include/ros/subscribe_options.h
 obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/obstacle_publisher_nodelet.cpp.o: /opt/ros/kinetic/include/ros/subscriber.h
 obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/obstacle_publisher_nodelet.cpp.o: /opt/ros/kinetic/include/ros/subscription_callback_helper.h
@@ -218,6 +226,7 @@ obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/obstacl
 obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/obstacle_tracker_nodelet.cpp.o: /opt/ros/kinetic/include/class_loader/class_loader_core.h
 obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/obstacle_tracker_nodelet.cpp.o: /opt/ros/kinetic/include/class_loader/class_loader_exceptions.h
 obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/obstacle_tracker_nodelet.cpp.o: /opt/ros/kinetic/include/class_loader/class_loader_register_macro.h
+obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/obstacle_tracker_nodelet.cpp.o: /opt/ros/kinetic/include/class_loader/console_bridge_compatibility.h
 obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/obstacle_tracker_nodelet.cpp.o: /opt/ros/kinetic/include/class_loader/meta_object.h
 obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/obstacle_tracker_nodelet.cpp.o: /opt/ros/kinetic/include/geometry_msgs/Point.h
 obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/obstacle_tracker_nodelet.cpp.o: /opt/ros/kinetic/include/geometry_msgs/Point32.h
@@ -234,6 +243,7 @@ obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/obstacl
 obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/obstacle_tracker_nodelet.cpp.o: /opt/ros/kinetic/include/geometry_msgs/Vector3Stamped.h
 obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/obstacle_tracker_nodelet.cpp.o: /opt/ros/kinetic/include/nodelet/exception.h
 obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/obstacle_tracker_nodelet.cpp.o: /opt/ros/kinetic/include/nodelet/nodelet.h
+obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/obstacle_tracker_nodelet.cpp.o: /opt/ros/kinetic/include/pluginlib/./class_list_macros.hpp
 obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/obstacle_tracker_nodelet.cpp.o: /opt/ros/kinetic/include/pluginlib/class_list_macros.h
 obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/obstacle_tracker_nodelet.cpp.o: /opt/ros/kinetic/include/ros/advertise_options.h
 obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/obstacle_tracker_nodelet.cpp.o: /opt/ros/kinetic/include/ros/advertise_service_options.h
@@ -278,6 +288,8 @@ obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/obstacl
 obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/obstacle_tracker_nodelet.cpp.o: /opt/ros/kinetic/include/ros/single_subscriber_publisher.h
 obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/obstacle_tracker_nodelet.cpp.o: /opt/ros/kinetic/include/ros/spinner.h
 obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/obstacle_tracker_nodelet.cpp.o: /opt/ros/kinetic/include/ros/static_assert.h
+obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/obstacle_tracker_nodelet.cpp.o: /opt/ros/kinetic/include/ros/steady_timer.h
+obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/obstacle_tracker_nodelet.cpp.o: /opt/ros/kinetic/include/ros/steady_timer_options.h
 obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/obstacle_tracker_nodelet.cpp.o: /opt/ros/kinetic/include/ros/subscribe_options.h
 obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/obstacle_tracker_nodelet.cpp.o: /opt/ros/kinetic/include/ros/subscriber.h
 obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/obstacle_tracker_nodelet.cpp.o: /opt/ros/kinetic/include/ros/subscription_callback_helper.h
@@ -338,6 +350,7 @@ obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/scans_m
 obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/scans_merger_nodelet.cpp.o: /opt/ros/kinetic/include/class_loader/class_loader_core.h
 obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/scans_merger_nodelet.cpp.o: /opt/ros/kinetic/include/class_loader/class_loader_exceptions.h
 obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/scans_merger_nodelet.cpp.o: /opt/ros/kinetic/include/class_loader/class_loader_register_macro.h
+obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/scans_merger_nodelet.cpp.o: /opt/ros/kinetic/include/class_loader/console_bridge_compatibility.h
 obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/scans_merger_nodelet.cpp.o: /opt/ros/kinetic/include/class_loader/meta_object.h
 obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/scans_merger_nodelet.cpp.o: /opt/ros/kinetic/include/geometry_msgs/Point.h
 obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/scans_merger_nodelet.cpp.o: /opt/ros/kinetic/include/geometry_msgs/Point32.h
@@ -356,6 +369,7 @@ obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/scans_m
 obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/scans_merger_nodelet.cpp.o: /opt/ros/kinetic/include/laser_geometry/laser_geometry.h
 obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/scans_merger_nodelet.cpp.o: /opt/ros/kinetic/include/nodelet/exception.h
 obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/scans_merger_nodelet.cpp.o: /opt/ros/kinetic/include/nodelet/nodelet.h
+obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/scans_merger_nodelet.cpp.o: /opt/ros/kinetic/include/pluginlib/./class_list_macros.hpp
 obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/scans_merger_nodelet.cpp.o: /opt/ros/kinetic/include/pluginlib/class_list_macros.h
 obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/scans_merger_nodelet.cpp.o: /opt/ros/kinetic/include/ros/advertise_options.h
 obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/scans_merger_nodelet.cpp.o: /opt/ros/kinetic/include/ros/advertise_service_options.h
@@ -400,6 +414,8 @@ obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/scans_m
 obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/scans_merger_nodelet.cpp.o: /opt/ros/kinetic/include/ros/single_subscriber_publisher.h
 obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/scans_merger_nodelet.cpp.o: /opt/ros/kinetic/include/ros/spinner.h
 obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/scans_merger_nodelet.cpp.o: /opt/ros/kinetic/include/ros/static_assert.h
+obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/scans_merger_nodelet.cpp.o: /opt/ros/kinetic/include/ros/steady_timer.h
+obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/scans_merger_nodelet.cpp.o: /opt/ros/kinetic/include/ros/steady_timer_options.h
 obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/scans_merger_nodelet.cpp.o: /opt/ros/kinetic/include/ros/subscribe_options.h
 obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/scans_merger_nodelet.cpp.o: /opt/ros/kinetic/include/ros/subscriber.h
 obstacle_detector/CMakeFiles/obstacle_detector_nodelets.dir/src/nodelets/scans_merger_nodelet.cpp.o: /opt/ros/kinetic/include/ros/subscription_callback_helper.h

@@ -61,6 +61,8 @@ obstacle_detector/CMakeFiles/scans_merger_node.dir/src/nodes/scans_merger_node.c
 obstacle_detector/CMakeFiles/scans_merger_node.dir/src/nodes/scans_merger_node.cpp.o: /opt/ros/kinetic/include/ros/single_subscriber_publisher.h
 obstacle_detector/CMakeFiles/scans_merger_node.dir/src/nodes/scans_merger_node.cpp.o: /opt/ros/kinetic/include/ros/spinner.h
 obstacle_detector/CMakeFiles/scans_merger_node.dir/src/nodes/scans_merger_node.cpp.o: /opt/ros/kinetic/include/ros/static_assert.h
+obstacle_detector/CMakeFiles/scans_merger_node.dir/src/nodes/scans_merger_node.cpp.o: /opt/ros/kinetic/include/ros/steady_timer.h
+obstacle_detector/CMakeFiles/scans_merger_node.dir/src/nodes/scans_merger_node.cpp.o: /opt/ros/kinetic/include/ros/steady_timer_options.h
 obstacle_detector/CMakeFiles/scans_merger_node.dir/src/nodes/scans_merger_node.cpp.o: /opt/ros/kinetic/include/ros/subscribe_options.h
 obstacle_detector/CMakeFiles/scans_merger_node.dir/src/nodes/scans_merger_node.cpp.o: /opt/ros/kinetic/include/ros/subscriber.h
 obstacle_detector/CMakeFiles/scans_merger_node.dir/src/nodes/scans_merger_node.cpp.o: /opt/ros/kinetic/include/ros/subscription_callback_helper.h

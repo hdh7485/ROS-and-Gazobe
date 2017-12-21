@@ -10,4 +10,7 @@ set(laser_filters_EXEC_DEPENDS "sensor_msgs" "roscpp" "tf" "filters" "message_fi
 set(laser_filters_RUN_DEPENDS "sensor_msgs" "roscpp" "tf" "filters" "message_filters" "laser_geometry" "pluginlib" "angles")
 set(laser_filters_TEST_DEPENDS )
 set(laser_filters_DOC_DEPENDS )
+set(laser_filters_URL_WEBSITE "http://ros.org/wiki/laser_filters")
+set(laser_filters_URL_BUGTRACKER "")
+set(laser_filters_URL_REPOSITORY "")
 set(laser_filters_DEPRECATED "")
